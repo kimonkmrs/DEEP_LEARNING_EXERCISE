@@ -1,14 +1,14 @@
 # Virtual Environment
-deep_learning_task/
 venv/
 env/
+deep_learning_task/
+
+# Data
+data/
 
 # Python cache
 __pycache__/
 *.pyc
-
-# Jupyter
-.ipynb_checkpoints/
 
 # VS Code
 .vscode/
